@@ -1,0 +1,45 @@
+<package>
+	<id>net.sident.rio.ios.breakthrough_8.21.5</id>
+	<name>Full Package</name>
+	<version>8.21.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>No extra packages, just an Elctra-Jailbroken device :)</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+            BreakThrough is a jailbreak detection avoidance solution.<br/>
+            This tweak has so far given me much better luck than Liberty <br/>
+            Lite as of it's version 
+            Here
+            
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
