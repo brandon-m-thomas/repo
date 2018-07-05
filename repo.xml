@@ -1,0 +1,9 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>My Website</name>
+			<url>http://brandonthomas.me/</url>
+			<iconclass>fa fa-cloud</iconclass>
+		</link>
+	</footerlinks>
+</repo>
