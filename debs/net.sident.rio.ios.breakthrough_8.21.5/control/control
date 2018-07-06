@@ -1,0 +1,10 @@
+Package: net.sident.rio.ios.breakthrough
+Name: BreakThrough
+Version: 8.21.5
+Architecture: iphoneos-arm
+Maintainer: Rio <rio+ipj@sident.net>
+Author: Rio <rio+ipj@sident.net>
+Section: Utilities
+Depends: firmware (>= 5.0), firmware (<< 12.0), mobilesubstrate
+Depiction: http://ftp.sident.net/cydia/dep/net.sident.rio.ios.breakthrough_8.21.5.html
+Description: Breaks jailbreak detection
